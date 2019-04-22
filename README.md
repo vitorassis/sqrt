@@ -4,7 +4,7 @@ O estudo de caso é baseado na premissa de que toda raíz quadrada de um número
 
 Exemplos:
 
-sqrt(1) = 1 (1) 
+sqrt(1) = 1 (1) <br>
 sqrt(4) = 2 (1+3)
 sqrt(9) = 3 (1+3+5)
 sqrt(16) = 4 (1+3+5+7)
