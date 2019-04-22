@@ -21,7 +21,7 @@ Pensei na seguinte coisa:
 
 sqrt(4) = 1/1 + 3/3 = 2                      
 O  O
---
+__
 O |O
 
 
@@ -31,9 +31,9 @@ mas, quando temos 5, por exemplo, fica:
 sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                
 
 O  X   X
-------
+_______
 O  O  |X
---    |
+__    |
 O |O  |X
 
 (as frações são => espaçosOcupados/ímpar)
