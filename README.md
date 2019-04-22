@@ -28,7 +28,7 @@ O |O<br>
 
 mas, quando temos 5, por exemplo, fica:<br><br>
 
-sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br><br>
+sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br>
 
 O  X   X<br>
 _______<br>
