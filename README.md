@@ -41,7 +41,7 @@ O |O  |X<br><br>
 
 Todavia, percebi que havia uma margem de erro na raiz (quando se eleva ela ao quadrado e compara com o número original) que tende de 0 a 0.25 (como observável no gráfico 'projeção (Num x Num-(result^2))'). Isso foi notado no ano passado (2018), continuarei com isso mais a frente.<br><br>
 
-Outro problema encontrado foi também com os números entre 0 e 1, pois, a menor camada seria 1 logo, a raiz de 0.5, por exemplo, seria 0.5/1, ou seja, ele mesmo quando deveria ser 0707106781!
+Outro problema encontrado foi também com os números entre 0 e 1, pois, a menor camada seria 1 logo, a raiz de 0.5, por exemplo, seria 0.5/1, ou seja, ele mesmo quando deveria ser 0.707106781!
 <br><br>
 Algebrando um pouco podemos perceber que:
 <br>
