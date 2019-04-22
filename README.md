@@ -45,7 +45,7 @@ Outro problema encontrado foi também com os números entre 0 e 1, pois, a menor
 <br><br>
 Algebrando um pouco podemos perceber que:
 <br>
-sqrt(0.5) = sqrt(50)/10
+sqrt(0.5) = sqrt(0.5 * 100)/10
 <br>PROBLEMA RESOLVIDO!<br>
 <br>
 Notei então que, estranhamente, a diferença entre a raíz "canônica" que eu obtive era MUITO menor que nos número que não estavam entre 0 e 1, e, PRONTO, A SOLUÇÃO PRO PEPINO ANTERIOR VEIO-ME!
