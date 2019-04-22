@@ -33,7 +33,7 @@ sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br><br>
 O  X   X<br>
 _______<br>
 O  O  |X<br>
-__    |<br>
+__    <br>
 O |O  |X<br><br>
 
 (as frações são => espaçosOcupados/ímpar)<br>
