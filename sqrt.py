@@ -32,4 +32,4 @@ def sqrt(num):
 
     return resultado
 
-#print(sqrt(float(input('Num: '))))
+print(sqrt(float(input('Num: '))))
