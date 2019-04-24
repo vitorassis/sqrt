@@ -1,6 +1,10 @@
-# sqrt
+# sqrt - _MÉTODO DE CAMADAS_
 
 O estudo de caso é baseado na premissa de que toda raíz quadrada de um número com raíz perfeita é a soma de n números ímpares consecutivos.
+
+O nome dado ao método deve-se à construção de quadrados por camadas, de dentro pra fora, sem spoilers, tem mais exemplossobre isso abaixo
+
+-- Podemos representar os quadrados graficamente (exemplos mais abaixo) , de modo que terão lado n, que coincide com os n números ímpares. 
 
 Exemplos:<br><br>
 
@@ -15,9 +19,32 @@ e assim sucessivamente.<br>
 
 Tomando o explicado acima como alicerce, indaguei-me: "e os números que não tem raíz certa?"<br>
 Pensei na seguinte coisa:<br>
-
-(cada O representa uma unidade, isso seria a representação de um quadrado, repare que a base e a altura deles são exatamente a sua raíz,
- cada X representa uma unidade que poderia estar presente mas não está pois o número não é grande o sufiente.) <br><br>
+ <br><br>
+ <table>
+  <thead>
+   <th colspan=2>
+    Legendas
+   </th>
+  </thead>
+  <tbody>
+   <tr>
+    <td>
+     O
+    </td>
+    <td>
+     Unidade preenchida
+    </td>
+   </tr>
+   <tr>
+    <td>
+     X
+    </td>
+    <td>
+     Unidade vaga
+    </td>
+   </tr>
+  </tbody>
+ </table>
 
 sqrt(4) = 1/1 + 3/3 = 2                      <br>
 O  O<br>
@@ -51,7 +78,7 @@ sqrt(0.5) = sqrt(0.5 * 100)/10
 Notei então que, estranhamente, a diferença entre a raíz "canônica" que eu obtive era MUITO menor que nos número que não estavam entre 0 e 1, e, PRONTO, A SOLUÇÃO PRO PEPINO ANTERIOR VEIO-ME!
 <br><br>
 sqrt(2) = 1.414213562 (CANÔNICO)<br>
-sqrt(2) = 1.333333333 (MEU ALGORITIMO)<br>
+sqrt(2) = 1.333333333 (MEU ALGORITMO)<br>
 sqrt(200) = 14.142135624 -> sqrt(2) = 14.142135624/10 (APLICANDO A LÓGICA ANTERIOR)<br><br>
 
 ___________________________________________________________________________________________
