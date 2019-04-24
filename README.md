@@ -47,11 +47,10 @@ Pensei na seguinte coisa:<br>
  </table>
 
 sqrt(4) = 1/1 + 3/3 = 2                      <br>
-O  O<br>
-__<br>
-O |O<br>
-<br><br>
-
+<table>
+ <tr><td>O</td> <td>O</td></tr>
+  <tr><td class='bg-danger'>O</td> <td>O</td></tr>
+ </table>
 
 mas, quando temos 5, por exemplo, fica:<br><br>
 
