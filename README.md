@@ -75,3 +75,24 @@ Exemplo:<br><br>
 
 1/2 ~= 7/12 <br>
 0.5 ~= 0.5888888888<br>
+
+
+__________________________________________________________________________________________
+
+_COMO IMPLEMENTAR O ALGORITMO?_
+
+Clone o repositório, mova o ```sqrt.py``` para o diretório do seu projeto, ai então use:
+
+```
+   from sqrt import sqrt
+   ...
+   root = sqrt(num)
+```
+
+
+_________________________________________________________________________________________
+
+_OBRIGADO_
+
+Obrigado pela atenção, duvidas, críticas ou sugestões, contacte-me: vitor.a.camargo0209@gmail.com
+;)
