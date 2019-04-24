@@ -42,7 +42,7 @@ sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br>
 <img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sqr5.png'>
 <br><br>
 sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br>
-<img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sqr20.png'>
+<img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sq20.png'>
 (as frações são => espaçosOcupados/ímpar)<br>
 
 
