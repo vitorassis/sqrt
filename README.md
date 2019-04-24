@@ -41,8 +41,9 @@ mas, quando temos 5 ou 20, por exemplo, fica:<br><br>
 sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br>
 <img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sqr5.png'>
 <br><br>
-sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br>
+sqrt(20) ~= 1/1 + 3/3 + 5/5 + 7/7 + 4/9 = 4.4444444444444<br>
 <img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sq20.png'>
+<br><br>
 (as frações são => espaçosOcupados/ímpar)<br>
 
 
