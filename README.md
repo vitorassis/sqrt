@@ -1,11 +1,10 @@
-# sqrt - _MÉTODO DE CAMADAS_
+# Raiz Quadrada - _MÉTODO DE CAMADAS_
 
-O estudo de caso é baseado na premissa de que toda raíz quadrada de um número com raíz perfeita é a soma de n números ímpares consecutivos.
+O estudo que desenvolvi é baseado na premissa de que toda raiz quadrada de um número com raiz inteira é a soma de n números ímpares consecutivos.
 
-O nome dado ao método deve-se à construção de quadrados por camadas, de dentro pra fora, sem spoilers, tem mais exemplossobre isso abaixo
+O nome dado ao método deve-se à construção de quadrados por camadas, de dentro pra fora, sem spoilers, tem exemplos sobre isso abaixo.
 
 -- Podemos representar os quadrados graficamente (exemplos mais abaixo) , de modo que terão lado n, que coincide com os n números ímpares. 
-
 Exemplos:<br><br>
 
 sqrt(1) = 1 (1) <br>
