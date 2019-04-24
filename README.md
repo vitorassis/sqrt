@@ -39,7 +39,7 @@ sqrt(4) = 1/1 + 3/3 = 2                      <br>
 mas, quando temos 5, por exemplo, fica:<br><br>
 
 sqrt(5) ~= 1/1 + 3/3 + 1/5 = 2.2                <br>
-<img src='https://raw.githubuserconten.com/vitorassis/sqrt/master/imgs/sqr5.png'>
+<img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sqr5.png'>
 
 (as frações são => espaçosOcupados/ímpar)<br>
 
