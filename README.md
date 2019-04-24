@@ -32,6 +32,8 @@ Pensei na seguinte coisa:<br>
   </tbody>
  </table>
 
+ -- Observe os quadrados, eis as camadas ^_^
+
 sqrt(4) = 1/1 + 3/3 = 2                      <br>
 <img src='https://raw.githubusercontent.com/vitorassis/sqrt/master/imgs/sq4.PNG'>
 
