@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 _Thinking about number's precision_
 
-How big the number is, bigger will be it's root precision either (using my method), FACTO.<br>
+How big the number is, bigger will be it's root precision either (using my method), FACT.<br>
 BUT, WHY?<br>
 Because a big odd means more slots to be filled. "Increasing the ruler we increase the measurement".<br><br>
 Samples:<br><br>
@@ -86,6 +86,7 @@ Clone this repository, move ```sqrt.py``` to your project directory, then:
    root = sqrt(num)
 ```
 <br><br>
+___________________________________________________________________________________________<br>
 THANK YOU
 
 I'm thankful for your attention, questions, critics or suggestions, call me:vitor.a.camargo0209@gmail.com ;)
@@ -171,7 +172,6 @@ Exemplo:<br><br>
 1/2 ~= 7/12 <br>
 0.5 ~= 0.5888888888<br>
 
-<<<<<<< HEAD
 ___________________________________________________________________________________________
 
 _COMO IMPLEMENTAR O ALGORITMO?_<br><br>
