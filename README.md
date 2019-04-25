@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Square Root - _LAYER METHOD_
 
 I developed this study based on the logic that every integer square root is the sum of n sequential odd numbers.
@@ -101,6 +102,15 @@ O nome dado ao método deve-se à construção de quadrados por camadas, de dent
 
 -- Podemos representar os quadrados graficamente (exemplos mais abaixo) de modo que terão lado n, que coincide com os n números ímpares. 
 
+=======
+# Raiz Quadrada - _MÉTODO DE CAMADAS_
+
+O estudo que desenvolvi é baseado na premissa de que toda raiz quadrada de um número com raiz inteira é a soma de n números ímpares consecutivos.
+
+O nome dado ao método deve-se à construção de quadrados por camadas, de dentro pra fora, sem spoilers, tem exemplos sobre isso abaixo.
+
+-- Podemos representar os quadrados graficamente (exemplos mais abaixo) , de modo que terão lado n, que coincide com os n números ímpares. 
+>>>>>>> 7998312ffc36c04d0afb5af945a98159c8a369a3
 Exemplos:<br><br>
 
 sqrt(1) = 1 (1) <br>
@@ -171,18 +181,32 @@ Exemplo:<br><br>
 1/2 ~= 7/12 <br>
 0.5 ~= 0.5888888888<br>
 
+<<<<<<< HEAD
 ___________________________________________________________________________________________
 
 _COMO IMPLEMENTAR O ALGORITMO?_<br><br>
 
 Clone o repositório, mova o sqrt.py para o diretório do seu projeto, ai então use:
 <br><br>
+=======
+
+__________________________________________________________________________________________
+
+_COMO IMPLEMENTAR O ALGORITMO?_
+
+Clone o repositório, mova o ```sqrt.py``` para o diretório do seu projeto, ai então use:
+
+>>>>>>> 7998312ffc36c04d0afb5af945a98159c8a369a3
 ```
    from sqrt import sqrt
    ...
    root = sqrt(num)
 ```
-<br><br>
-OBRIGADO
-<br><br>
-Obrigado pela atenção, duvidas, críticas ou sugestões, contacte-me: vitor.a.camargo0209@gmail.com ;)
+
+
+_________________________________________________________________________________________
+
+_OBRIGADO_
+
+Obrigado pela atenção, duvidas, críticas ou sugestões, contacte-me: vitor.a.camargo0209@gmail.com
+;)
