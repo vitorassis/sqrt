@@ -47,7 +47,7 @@ sqrt(20) ~= 1/1 + 3/3 + 5/5 + 7/7 + 4/9 = 4.4444444444444<br>
 <br><br>
 (the divisions are => UsedUnitySlots/odd)<br>
 
-However, I saw that there was a considerable error in result (when you multiplies the resultant number itself and compare with original) which floats between 0 and 0.25 (as you can see in 'projeção (Num x Num-(result^2))'). I percepted that last year (2018), I'll continue with this problem after.<br><br>
+However, I saw that there was a considerable error in result (when you multiply the resultant number itself and compare with original) which floats between 0 and 0.25 (as you can see in 'projeção (Num x Num-(result^2))'). I percepted that last year (2018), I'll continue with this problem after.<br><br>
 
 Other trouble I found was either with numbers between 0 and 1, beacause the last layers is 1, so, the square root of 0.5 would be 0.5/1 = 0.5, but the correct is 0.707106781!
 <br><br>
@@ -57,7 +57,7 @@ Calculating a little bit we can see that:
 sqrt(0.5) = sqrt(0.5 * 100)/10
 <br>PROBLEM SOLVED!<br>
 <br>
-Then I saw that, weirdly, the difference between the "canonical" root and the one I got were PRETTY lower than for the number outside this interval, so, I'ts finished, I FOUND THE SOLUTION FOR THE PREVIOUS PROBLEM!
+Then I saw that, weirdly, the difference between the "canonical" root and the one I got were PRETTY lower than for the number outside this interval, so, Its finished, I FOUND THE SOLUTION FOR THE PREVIOUS PROBLEM!
 <br><br>
 sqrt(2) = 1.414213562 (CANONICAL)<br>
 sqrt(2) = 1.333333333 (MY ALGORYTHM)<br>
@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 _Thinking about number's precision_
 
-How big the number is, bigger will be it's root precision either (using my method), FACT.<br>
+As bigger the number, as bigger its root precision (using my method), FACT.<br>
 BUT, WHY?<br>
 Because a big odd means more slots to be filled. "Increasing the ruler we increase the measurement".<br><br>
 Samples:<br><br>
